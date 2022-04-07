@@ -1,0 +1,1 @@
+{"version":3,"file":"index.es.js","sources":["../src/index.ts"],"sourcesContent":["\r\nexport const sum = (a: number, b: number): number => a + b\r\n\r\n// console.log(sum(2,3))"],"names":[],"mappings":"AACO,IAAM,GAAG,GAAG,UAAC,CAAS,EAAE,CAAS,EAAA,EAAa,OAAA,CAAC,GAAG,CAAC,CAAA,GAAA;AAE1D;;;;"}
